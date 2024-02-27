@@ -356,7 +356,7 @@ var cnItems = {
     "x1.2 Greenhouse growth speed": "x1.2 温室生长速度",
     "Plant": "种植",
     "Weeds, slowing down growth by 40%": "草药，生长速度减慢 40%",
-    "": "",
+    "RESTART": "重新开始",
     "": "",
     "": "",
     "": "",
