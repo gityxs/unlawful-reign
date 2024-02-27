@@ -308,7 +308,7 @@ var cnItems = {
     "Double Fake Identity build speed": "双倍虚假身份构建速度",
     "Double plant growth speed": "植物生长速度加倍",
     "Dry, slowing down growth by 60%": "干燥，生长速度减慢60%",
-    "Expand Flower Bed": "展开花坛",
+    "Expand Flower Bed": "扩张花坛",
     "Facial hair - Nature's disguise kit": "面部毛发 - 大自然的伪装套件",
     "Fertilizer": "肥料",
     "Greenhouse": "温室",
