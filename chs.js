@@ -714,6 +714,7 @@ var cnRegReplace = new Map([
     [/^You and your squad rob the store, (.+) Not. and (.+)$/, '你和你的小队抢劫了商店，$1 恶名 和 $2'],
     [/^You tag the side of a store and earn (.+) Not.$/, '您标记商店的一侧并赚取 $1 恶名'],
     [/^You share your misdeeds and misadventures. You gain (.+) Not.$/, '你分享你的错误行为和不幸经历。 你获得 $1 恶名'],
+    [/^(.+): You pickpocket (.+)$/, '$1: 你扒窃了 $2'],
     [/^(.+) Gang Members \((.+)\)$/, '$1 帮派成员 \($2\)'],
     [/^(.+) Stolen Jewels \((.+)\)$/, '$1 被盗珠宝 \($2\)'],
     [/^(.+) Stolen Goods \((.+)\)$/, '$1 被盗物品 \($2\)'],
