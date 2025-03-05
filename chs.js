@@ -563,7 +563,7 @@ var cnPrefix = {
     "Growth: ": "生长: ",
     "Wetness: ": "湿度: ",
     "You carry out your heist and manage to get away! ": "你实施了抢劫并成功逃脱！",
-    "": "",
+    "Purchased Upgrades ": "已购买升级 ",
     "": "",
     "": "",
     "": "",
